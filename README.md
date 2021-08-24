@@ -1,5 +1,3 @@
-# diolive
+# API-Rest <Java, Spring Boot>
 
-Api rest para gerenciamento de ponto e controle de acesso.
-
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+A Attendence point system and access of company users. Using JAVA, Spring Boot, Hibernate Envers, lombok plus documenting the entire API with Swagger.
