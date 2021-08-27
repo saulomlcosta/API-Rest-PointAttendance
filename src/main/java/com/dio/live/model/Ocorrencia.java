@@ -9,7 +9,7 @@ import lombok.*;
 @EqualsAndHashCode
 @Builder
 public class Ocorrencia {
-    private Long id;
+    private long id;
     private String nome;
     private String descricao;
 }

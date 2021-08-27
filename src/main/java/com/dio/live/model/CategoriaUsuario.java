@@ -9,6 +9,6 @@ import lombok.*;
 @EqualsAndHashCode
 @Builder
 public class CategoriaUsuario {
-    private Long id;
+    private long id;
     private String descricao;
 }
