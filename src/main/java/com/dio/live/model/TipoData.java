@@ -14,6 +14,6 @@ import javax.persistence.Id;
 @Entity
 public class TipoData {
     @Id
-    private Long id;
+    private long id;
     private String descricao;
 }

@@ -24,7 +24,6 @@ public class Movimentacao {
         private long idMovimento;
         private long idUsuario;
     }
-    @Id
     @EmbeddedId
     private MovimentacaoId id;
     private LocalDateTime dataEntrada;
